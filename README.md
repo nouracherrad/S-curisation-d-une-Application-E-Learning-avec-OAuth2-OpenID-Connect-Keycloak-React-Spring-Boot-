@@ -193,5 +193,3 @@ client_id=react-client
 
 ---
 
-**🚀 L'application est maintenant prête à être utilisée!**  
-Accédez à http://localhost:3000 pour commencer.
